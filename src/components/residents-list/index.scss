@@ -1,0 +1,12 @@
+.residents-div {
+    .ant-card {
+        display: inline-block;
+        margin: 8px 0px;
+        margin-right: 8px;
+        vertical-align: top;
+        height: 200px;
+        .res-button {
+            width: 50%;
+        }
+    }
+}
